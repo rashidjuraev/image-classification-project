@@ -1,0 +1,48 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VSCode
+.vscode/
+
+# Environment
+venv/
+env/
+.env
+
+# Model checkpoints and outputs
+checkpoints/
+outputs/
+*.pth
+*.pt
+*.ckpt
+
+# Dataset
+data/datasets/
+
+# Logs
+logs/
+*.log
+*.csv
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# OS
+.DS_Store
+Thumbs.db
